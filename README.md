@@ -22,4 +22,4 @@ Betty-Moore library
 
 ## Food
 
-Sandwiches
+Sandwiches and cheese
